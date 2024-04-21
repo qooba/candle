@@ -6,6 +6,7 @@ pub mod chatglm;
 pub mod clip;
 pub mod convmixer;
 pub mod convnext;
+pub mod deberta;
 pub mod dinov2;
 pub mod distilbert;
 pub mod efficientnet;
